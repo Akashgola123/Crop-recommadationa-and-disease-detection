@@ -1,0 +1,1 @@
+# Crop-recommadationa-and-disease-detection
